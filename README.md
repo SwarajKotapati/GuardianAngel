@@ -39,7 +39,7 @@ The project adheres to a standard structure:
 
 **Local Database**
 
-The application utilizes a local database, ensuring secure storage of user health data. The database schema includes tables for heart rate, respiratory rate, and symptoms, providing an organized repository for user information.
+The application utilizes a local database (Room Database) , ensuring secure storage of user health data. The database schema includes tables for heart rate, respiratory rate, and symptoms, providing an organized repository for user information.
 
 **Getting Started**
 
